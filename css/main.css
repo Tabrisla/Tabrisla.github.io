@@ -1153,7 +1153,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6fe5ff;
+  background: #ff0128;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2156,7 +2156,7 @@ hr {
 .site-meta {
   float: left;
   line-height: normal;
-  margin-left: -20px;
+  margin-left: 0px;
 }
 @media (max-width: 767px) {
   .site-meta {
@@ -2174,7 +2174,7 @@ hr {
 }
 .site-meta .site-title {
   font-weight: bolder;
-  margin-left: 20px;
+  margin-left: 0px;
 }
 .logo-line-before,
 .logo-line-after {
